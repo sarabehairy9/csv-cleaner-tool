@@ -11,10 +11,7 @@ A Python GUI tool that allows users to clean and preprocess CSV files using Tkin
 - Generating simple plots
 - Saving cleaned output
 
-## How to Run
-
-1. Install dependencies:
 ## 🔽 Download EXE
 
-[Click here to download the CSV Cleaner Tool (.exe)]([https://drive.google.com/your-link-here](https://drive.google.com/file/d/1xoTsnKqfKyx_TIIAhv0vPMMW_rTdGQ14/view?usp=sharing))
+[Click here to download the CSV Cleaner Tool (.exe)](https://drive.google.com/file/d/1xoTsnKqfKyx_TIIAhv0vPMMW_rTdGQ14/view?usp=sharing)
 
